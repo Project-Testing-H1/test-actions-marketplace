@@ -1,1 +1,2 @@
-a
+name: "test<script>alert(1)</script>"
+description: "test<script>alert(1)</script>"
